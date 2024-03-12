@@ -1,0 +1,17 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #85ffb4; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: navy;
+}
+
+/* STYLE IMAGES */
+img {
+  height:auto ;
+  width:auto ;
+}
+/* STYLE NAV BAR */
